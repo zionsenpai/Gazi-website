@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/magritte.png"/>
+  <img width="60%" height="30%" src="https://img.icons8.com/color/48/000000/magritte.png"/>
 </p>
 <h1 align="center">
   gazijarin.com - v1
